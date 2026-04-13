@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Factorization.md",
+                "file": "Mechanical Turk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix Factorization"
+              "title": "Mechanical Turk"
             }
           }
         ]
@@ -181,12 +181,14 @@
   },
   "active": "ee9415c599dc3642",
   "lastOpenFiles": [
-    "Matrix Factorization-swagdunk-safeBackup-0001.md",
+    "Mechanical Turk-swagdunk-safeBackup-0002.md",
+    "Mechanical Turk.md",
     "Matrix Factorization.md",
+    "Mechanical Turk.md",
+    "Matrix Factorization-swagdunk-safeBackup-0001.md",
     "Crowdsourcing Design.md",
     "Pasted image 20260405190240.png",
     "Expert Crowdsourcing.md",
-    "Mechanical Turk.md",
     "Multi-Armed Bandit.md",
     "Pasted image 20260327131130.png",
     "Reputation Systems.md",
@@ -213,7 +215,6 @@
     "Pasted image 20260310144533.png",
     "Pasted image 20260310140335.png",
     "Pasted image 20260310135734.png",
-    "Control Signals.md",
     "Pasted image 20260310133728.png",
     "Pasted image 20260309194305.png",
     "Pasted image 20260309190930.png",
