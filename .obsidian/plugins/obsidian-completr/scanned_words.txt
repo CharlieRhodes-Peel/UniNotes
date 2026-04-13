@@ -1342,6 +1342,7 @@ training
 traditional
 tune
 trails
+tested
 determined
 distance
 doesn
@@ -1861,6 +1862,7 @@ freelancing
 freelancers
 form
 factorial
+fewer
 goes
 getting
 get
@@ -2174,6 +2176,7 @@ LRU
 Linear
 Learns
 Learning
+Latin
 variable
 vs
 very
