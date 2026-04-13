@@ -1,0 +1,1 @@
+A MAC address is a **PHYSICAL** addresses that allows the router in a LAN to find the specified device

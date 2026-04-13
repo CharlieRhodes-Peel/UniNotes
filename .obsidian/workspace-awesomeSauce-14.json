@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "e71106f11fb3f24f",
+    "type": "split",
+    "children": [
+      {
+        "id": "925db21559fbc441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55e1622d042674bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assembly Shorthand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assembly Shorthand"
+            }
+          },
+          {
+            "id": "98bbdf75598caae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assembly Shorthand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assembly Shorthand"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d18922af1ae74a29",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee25948a2e835d50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "998dfafe686cb27a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3fbaad4c4c1c7bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "public key",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e1d0bd153cd14987",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2a2c9a20385ebf10",
+    "type": "split",
+    "children": [
+      {
+        "id": "c605248aa31057cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5534796af913a2b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Paths.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Data Paths"
+            }
+          },
+          {
+            "id": "b188348dd4f0eab1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "42e0734c7bee4d4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fa372f343055eb5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Recommender Systems.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Recommender Systems"
+            }
+          },
+          {
+            "id": "210f9e5f45b573c2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "98bbdf75598caae1",
+  "lastOpenFiles": [
+    "Control Signals.md",
+    "Control Signals-swagdunk-3.md",
+    "Control Signals-swagdunk-3.md.partial",
+    "Control Signals-swagdunk-2.md",
+    "Control Signals-swagdunk-2.md.partial",
+    "Control Signals-awesomeSauce.md",
+    "Sign Extension.md",
+    "ALU.md",
+    "Control Signals.md.partial",
+    "Control Signals-awesomeSauce-3.md",
+    "Assembly Shorthand.md",
+    "Control Signals-awesomeSauce-2.md",
+    "Assembly Shorthand-awesomeSauce.md",
+    "Assembly Shorthand.md.partial",
+    "Pasted image 20260217160515.png",
+    "MIPS.md",
+    "Pasted image 20260217155710.png",
+    "CPU Refresher notes.md",
+    "Data Paths.md",
+    "Address.md",
+    "Paging.md",
+    "CPU-swagdunk.md",
+    "Pasted image 20260217151724.png",
+    "Pasted image 20260216173042.png",
+    "Pasted image 20260216172419.png",
+    "Pasted image 20260216172121.png",
+    "Sign Extension-awesomeSauce.md",
+    "Sign Extension.md.partial",
+    "Register-awesomeSauce.md",
+    "Register.md",
+    "Data Paths-awesomeSauce.md",
+    "Data Paths-awesomeSauce.md.partial",
+    "Data Paths.md.partial",
+    "Register.md.partial",
+    "Pasted image 20260216170656.png",
+    "Pasted image 20260216170103.png",
+    "Pasted image 20260216165518.png",
+    "Microcontroller-swagdunk.md",
+    "MIPS-awesomeSauce-2.md",
+    "MIPS-awesomeSauce.md",
+    "Instruction Set.md",
+    "Recommender Systems.md",
+    "Pasted image 20260216164005.png",
+    "CISC.md",
+    "Microprocessor.md.partial",
+    "MIPS.md.partial"
+  ]
+}

@@ -1,0 +1,11 @@
+# Branch Prediction:
+- Branch prediction nowadays is >90% accurate (good)
+- Multiple streams (pipelines)
+	- Have 2 pipelines
+	- Pre fetch each branch - it's speculative in nature
+- Prefetch branch target
+	- Keep target till branch is executed, (used by IBM in '91!)
+- Loop buffer
+	- Stores last n instructions, very good for small loops
+- Predict never taken (static)
+	- Assumes jump will not happen

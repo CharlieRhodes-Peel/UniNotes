@@ -1,0 +1,2 @@
+Classic architecture: MIPS
+

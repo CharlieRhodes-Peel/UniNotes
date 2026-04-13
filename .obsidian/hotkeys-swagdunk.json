@@ -1,0 +1,14 @@
+{
+  "obsidian-completr:completr-fake-enter": [
+    {
+      "key": "Enter",
+      "modifiers": []
+    },
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ]
+}

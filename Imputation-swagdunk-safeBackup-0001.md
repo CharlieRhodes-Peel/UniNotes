@@ -1,0 +1,1 @@
+Imputation in the context of [[Matrix Factorization]] refers to the process of filling in missing values in a matrix by using information from other related data points. This technique is often used in [[Recommender Systems]] and other applications to improve data completeness and accuracy

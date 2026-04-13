@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "e71106f11fb3f24f",
+    "type": "split",
+    "children": [
+      {
+        "id": "925db21559fbc441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c1feebade0c5af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Forwarding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Forwarding"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d18922af1ae74a29",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee25948a2e835d50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "998dfafe686cb27a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3fbaad4c4c1c7bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "public key",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e1d0bd153cd14987",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2a2c9a20385ebf10",
+    "type": "split",
+    "children": [
+      {
+        "id": "c605248aa31057cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5534796af913a2b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Forwarding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Data Forwarding"
+            }
+          },
+          {
+            "id": "b188348dd4f0eab1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "42e0734c7bee4d4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fa372f343055eb5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Recommender Systems.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Recommender Systems"
+            }
+          },
+          {
+            "id": "210f9e5f45b573c2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5c1feebade0c5af3",
+  "lastOpenFiles": [
+    "Linux.md",
+    "Data Forwarding.md",
+    "Data Forwarding.md.partial",
+    "Data Forwarding-awesomeSauce-4.md",
+    "Pasted image 20260219165034.png",
+    "Pasted image 20260219164951.png",
+    "Data Forwarding-awesomeSauce-3.md",
+    "MIPS.md",
+    "Pasted image 20260219164044.png",
+    "ADC.md.partial",
+    "Pipelining-awesomeSauce-2.md",
+    "ADC.md",
+    "Register.md",
+    "Pipelining.md",
+    "CPU Design Optimisations.md",
+    "CPU Design Optimisations.md.partial",
+    "CPU Design Optimisations-awesomeSauce.md",
+    "MIPS.md.partial",
+    "MIPS-awesomeSauce.md",
+    "Control Signals.md",
+    "Pipelining.md.partial",
+    "Data Forwarding-awesomeSauce-2.md",
+    "Data Forwarding-awesomeSauce.md",
+    "Pipelining-awesomeSauce.md",
+    "Pasted image 20260219161606.png",
+    "Linux.md.partial",
+    "Linux-awesomeSauce.md",
+    "Branch Prediction.md",
+    "Pipelining-awesomeSauce.md.partial",
+    "Pipelining-awesomeSauce-6.md",
+    "Pasted image 20260219142319.png",
+    "CPU Design Optimisations-awesomeSauce-2.md",
+    "Pipelining-awesomeSauce-5.md",
+    "Pipelining-awesomeSauce-4.md",
+    "Pasted image 20260219140159.png",
+    "Pasted image 20260219135948.png",
+    "Pipelining-awesomeSauce-3.md",
+    "Pasted image 20260219134117.png",
+    "CPU.md",
+    "ISA.md",
+    "ELEC-Architecture Appendix.md.partial",
+    "Single Cycle Optimisations.md.partial",
+    "ALU.md.partial",
+    "Pasted image 20260217160515.png",
+    "Pasted image 20260217155710.png"
+  ]
+}

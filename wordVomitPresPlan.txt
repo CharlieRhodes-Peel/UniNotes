@@ -1,0 +1,65 @@
+Elements to it:
+ - Design
+ - MAnufacture
+ - Operating
+ - Disposal
+
+https://www.techtarget.com/searchcio/definition/green-IT-green-information-technology
+claims emerged in 1992
+
+Importance of green IT:
+- Climate change
+- Compliance (pressure from govs)
+- Competitive advantage
+
+Benefits of GIT:
+- more energy efficient technology to reduce energy consumption
+- improved reputation lol
+
+Challenges:
+
+- Cost
+- Cultural pushback, could meet internal resistance and create issues with customers and suppliers
+
+
+
+Managing Carbon and Data Flows:
+https://hcommons.org/deposits/item/hc:34475/
+
+Carbon credits:
+
+Carbon credits, also known as carbon allowances
+work like permission slips for emissions.
+When a company buys a carbon credit, usually from the government, 
+they gain permission to generate one ton of CO2 emissions. With carbon credits,
+carbon revenue flows vertically from companies to regulators,
+though companies who end up with excess credits can sell them to other companies.
+
+
+The gap between semiotics and matter can grow troublingly
+large as RECs become increasingly fungible. When traded
+across national or international markets, RECs from distant
+grids are mustered to balance carbon accounts in sites where
+green electrons will never travel. In this way, regional
+differences in the price and supply of renewables can skew
+meso-level markets. Wind farms in Texas, able to generate
+electricity at rates low enough to compete with conventional
+generation on a local grid, have flooded the US market with
+cheap ‘virtual’ RECs, unbundled from relations to place (Cook
+et al., 2017: 40). 
+
+Azure covers 26 countries
+2 million tons of CO2 (where tf is the evidence for this?)
+
+
+Companies can offset their carbon by paying other people to do it for them
+It gives them good press
+- Is the good standing gained from such a thing worth the money / time sacrifice
+
+
+
+https://www.tandfonline.com/doi/full/10.1080/13563467.2017.1240669
+
+Cloud computing accounts for 2% of global emmisions
+https://www.mdpi.com/2073-8994/9/12/295
+

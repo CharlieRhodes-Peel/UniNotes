@@ -1,0 +1,1 @@
+You buy the intellectual property for the circuit description of a core. So for example ARM
