@@ -20,7 +20,7 @@ from item rating patterns.
 4. **Training** means adjusting those vectors until your predictions match the real ratings as closely as possible, there are two ways to do this **ALS** and **SGD** both of which are explained below
     - **ALS (Alternating Least Squares)**: Fix one matrix, solve exactly for the other, then swap. Repeat. Works well for [[Parallelism]] tasks
     - **SGD (Stochastic Gradient Descent)**: Pick a random rating, see how wrong your prediction is, and nudge both vectors slightly in the right direction. Easier to implement than ALS and is generally faster
-5. **Regularisation** (the \lambda term) is added to prevent over-fitting - essentially a penalty for vectors that grow too large
+5. **Regularisation** (the $\lambda$ term) is added to prevent over-fitting - essentially a penalty for vectors that grow too large
 
 ## Diagram
 

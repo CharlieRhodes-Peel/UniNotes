@@ -82,3 +82,6 @@ Aka. NOT alot of CPUs, small bus widths, small responders and controllers etc.
 ## Diagram
 ![[Pasted image 20260309144615.png]]
 
+
+# NoC link: [[NoC]]
+^ There's some bus stuff for NoC here

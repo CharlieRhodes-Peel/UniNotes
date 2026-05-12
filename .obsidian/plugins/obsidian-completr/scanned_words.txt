@@ -164,6 +164,7 @@ Matrix
 Modifications
 Multimodal
 Multivariate
+Message
 Assumes
 Assume
 ANTI
@@ -257,6 +258,9 @@ Approach
 Analytic
 ANALYTICS
 Advantages
+Automatic
+Almost
+Any
 each
 either
 essentially
@@ -459,6 +463,8 @@ informations
 iterative
 interacting
 interdependence
+interconnects
+implementations
 revolute
 rot
 remember
@@ -586,6 +592,8 @@ rounds
 risk
 recipe
 recipes
+reliable
+reserving
 or
 of
 odaa
@@ -650,6 +658,7 @@ optimal
 original
 occurences
 obtain
+offs
 prismatic
 passes
 perpendicular
@@ -796,6 +805,11 @@ practise
 plugins
 performs
 pattern
+packet
+perspective
+ping
+packets
+poorly
 To
 THROUGH
 The
@@ -862,6 +876,9 @@ Training
 Tp
 Taskcn
 Testing
+Topology
+Tags
+TERRIBLE
 Pick
 Procedure
 Personal
@@ -930,6 +947,7 @@ Potential
 Pay
 Pasted
 Pseudocode
+Packet
 Reference
 REMEMBER
 Rot
@@ -1001,6 +1019,9 @@ Requesters
 Referring
 ROI
 Randomly
+Routing
+Requirements
+Reliability
 Frames
 Faster
 For
@@ -1047,6 +1068,8 @@ Filtering
 FOR
 Flexibility
 Fractional
+Flow
+Flit
 Each
 Essentially
 Everything
@@ -1104,6 +1127,8 @@ Easier
 Effectively
 Early
 Experimental
+Energy
+Every
 axis
 and
 assigned
@@ -1245,6 +1270,10 @@ augmentation
 answering
 assign
 analyse
+attached
+arbiter
+arbitration
+adds
 to
 the
 then
@@ -1342,6 +1371,10 @@ training
 traditional
 tune
 trails
+tested
+triangle
+thingy
+tags
 determined
 distance
 doesn
@@ -1451,6 +1484,8 @@ description
 differentiate
 designing
 decided
+direct
+duplicates
 by
 behind
 be
@@ -1537,6 +1572,7 @@ biases
 behave
 businesses
 budget
+bridges
 choice
 connects
 cherries
@@ -1742,6 +1778,10 @@ challenger
 capture
 contributed
 changing
+concepts
+connecting
+comprised
+compared
 Order
 Origin
 Output
@@ -1861,6 +1901,10 @@ freelancing
 freelancers
 form
 factorial
+fewer
+frequent
+flits
+fine
 goes
 getting
 get
@@ -1902,6 +1946,7 @@ gamma
 grown
 geopgraphical
 gather
+gpus
 zi
 zeros
 zero
@@ -1982,6 +2027,7 @@ worker
 win
 wishes
 webpages
+wiring
 has
 high
 however
@@ -2033,6 +2079,7 @@ heavily
 handles
 hire
 highly
+hierarchical
 links
 link
 located
@@ -2174,6 +2221,8 @@ LRU
 Linear
 Learns
 Learning
+Latin
+Layout
 variable
 vs
 very
@@ -2398,6 +2447,16 @@ subset
 schemes
 statistical
 significance
+switches
+simply
+showing
+serviced
+serial
+send
+scales
+saturate
+said
+scaling
 next
 not
 needed
@@ -2434,6 +2493,7 @@ nm
 nudge
 neural
 network
+node
 GO
 General
 Generate
@@ -2557,6 +2617,11 @@ Contests
 Conversion
 Cannot
 Considers
+Connects
+Channels
+Coherence
+Crossbar
+Concurrent
 Imagine
 It
 Instructions
@@ -2620,6 +2685,9 @@ Imputation
 Implications
 IP
 Inefficient
+Interconnect
+IPs
+Indirect
 market
 mouth
 measure
@@ -2719,6 +2787,8 @@ min
 modelling
 missing
 measures
+message
+meme
 quality
 quadword
 quantitative
@@ -2727,6 +2797,7 @@ queue
 quickly
 queues
 question
+quickest
 Now
 New
 Not
@@ -2760,6 +2831,8 @@ Nondeterministic
 NNs
 Neural
 NCF
+NoC
+Node
 know
 knows
 king
@@ -2820,6 +2893,8 @@ BUT
 Because
 Bandit
 Browser
+Buffering
+Bursting
 What
 Whereas
 Where
@@ -2852,6 +2927,7 @@ Watts
 Workers
 Web
 Website
+Who
 Systems
 Such
 Support
@@ -2960,6 +3036,8 @@ Squares
 Stochastic
 Square
 Suppose
+Scalability
+Scaling
 use
 users
 used
@@ -2996,6 +3074,7 @@ ui
 uk
 utilised
 unbalanced
+units
 Keep
 Known
 KiB
