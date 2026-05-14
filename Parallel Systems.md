@@ -35,8 +35,8 @@ Clock speed over time graph (doubles every two years ?)
 - Reasonable scalable until [[bus]] is saturated
 ###### Typical SMP System
 - Each processor has it's own L1 and L2 [[Cache]] (some have L3 which are shared between cores)
-	- Connected by a system [[Bus]], or other interconnect
-	- Main memory, I/o, etc. All connected to the interconnect
+	- Connected by a system [[Bus]], or other [[NoC|interconnect]]
+	- Main memory, I/o, etc. All connected to the [[NoC|interconnect]]
 ![[Pasted image 20231213150458.png]]
 
 

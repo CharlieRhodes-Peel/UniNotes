@@ -1,5 +1,5 @@
 # Cluster Computer Architecture
-- Multiple **COMPUTERS** (wtf :0) connected over a High Speed Network/Switch ([[Networks]])
+- Multiple **COMPUTERS** (wtf :0) connected over a High Speed Network/[[Switch]] ([[Networks]])
 	- Connections:
 		- Infiniband (2-300 Gbit/s)
 		- Or Gigabit/s ethernet connection
@@ -12,7 +12,7 @@
 # In Southampton !
 - 1000 nodes 12000 cores
 - 100TFlops
-- Infiniband interconnect
+- Infiniband [[NoC|interconnect]]
 - 44TB [[RAM]] (WHAT)
 - 110TB disk
 - [[Linux]]
