@@ -5,7 +5,7 @@ This sections uses a website as an example. How do we optimise the landing page 
 
 First we answer the question, what do we measure success with? Well there are lots of things like:
 ##### Web Analytic - Data -> USE GOOGLE ANALYTICS FOR THIS GENERALLY <-
-- IP addresses / geopgraphical location
+- [[IP]] addresses / geopgraphical location
 - How many unique visitors are there
 - Browser / plugins used
 - Keywords that led to the page

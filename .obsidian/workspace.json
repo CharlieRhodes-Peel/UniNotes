@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "f4f01106ffc49bf7",
+            "id": "ee6ba01f73fbee80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoC.md",
+                "file": "Reputation Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NoC"
+              "title": "Reputation Systems"
+            }
+          },
+          {
+            "id": "1323ae2371d690a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Switch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Switch"
             }
           }
         ],
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human Computation.md",
+                "file": "Reputation Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Human Computation"
+              "title": "Backlinks for Reputation Systems"
             }
           },
           {
@@ -178,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -193,52 +207,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "998dfafe686cb27a",
+  "active": "ee6ba01f73fbee80",
   "lastOpenFiles": [
-    "Mechanical Turk.md",
-    "Pasted image 20260512153929.png",
-    "Pasted image 20260512152315.png",
-    "Pasted image 20260512152251.png",
-    "Pasted image 20260512152023.png",
-    "Pasted image 20260512151956.png",
-    "Pasted image 20260512151303.png",
-    "Pasted image 20260512151226.png",
-    "Pasted image 20260512150902.png",
-    "Pasted image 20260512145841.png",
-    "Bus.md",
-    "NoC.md",
-    "Pasted image 20260512145441.png",
-    "Data Paths.md",
-    "High-Performance Buses.md",
-    "Matrix Factorization.md",
-    "Crowdsourcing Design.md",
-    "Expert Crowdsourcing.md",
-    "Multi-Armed Bandit.md",
-    "Reputation Systems.md",
-    "Imputation.md",
     "Lemon Problem.md",
+    "Reputation Systems.md",
+    "Flow Control.md",
+    "Routing.md",
+    "NoC.md",
+    "Switch.md",
+    "Topology.md",
+    "Pasted image 20260514134618.png",
+    "siwt.md",
+    "Pasted image 20260514134050.png",
+    "Packet.md",
+    "Pasted image 20260514133142.png",
+    "Noxc.md",
+    "Data Paths.md",
+    "Pasted image 20260514131815.png",
+    "Pasted image 20260514131445.png",
+    "Pasted image 20260514131050.png",
+    "Pasted image 20260514130644.png",
+    "README.md",
+    "Range.md",
     "Recommender Systems.md",
-    "Incentives.md",
-    "Parallelism.md",
-    "Social Mobilisation.md",
+    "Red-Black Trees.md",
+    "Register.md",
+    "Requirement Gathering.md",
+    "ROM.md",
+    "RISC.md",
+    "Sequence Diagram.md",
+    "Serial Data transfer.md",
+    "Set.md",
     "SIMD.md",
-    "Human Computation.md",
+    "Sign Extension.md",
+    "Single Cycle Optimisations.md",
+    "SoC.md",
+    "zImages/Pasted image 20240515145019.png",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "zImages/Pasted image 20260514125411.png",
+    "zImages/Pasted image 20260514124154.png",
     "Recommender Systems.md.partial",
     "Moore's Law.md.partial",
-    "SSE.md",
-    "Cache.md",
-    "Pipelining.md",
-    "Associative Cache.md",
-    "Multi-Word Blocks.md",
-    "Single Cycle Optimisations.md",
-    "MIPS.md",
     "MIPS.md.partial",
     "Pipelining.md.partial",
     "Data Forwarding.md.partial",
     "ADC.md.partial",
     "CPU Design Optimisations.md.partial",
     "Linux.md.partial",
-    "Pipelining-awesomeSauce.md.partial",
-    "ELEC-Architecture Appendix.md.partial"
+    "Pipelining-awesomeSauce.md.partial"
   ]
 }
