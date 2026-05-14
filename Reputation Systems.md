@@ -13,7 +13,7 @@ Reputation system aim to help *asymmetric information* between sellers and buyer
 ### Moral Hazards
 Once a transaction has taken place, there is no incentive for parties to stick to the bargain. Like complete the payment, provide a follow-up. **BASICALLY, THINK KICKSTARTER AND OR PIRATE SOFTWARE**
 
-A moral hazard is a situation in which one party gets invlovled in a risky event knowoing that it is protected against the risk and the other party will incur the cost
+A moral hazard is a situation in which one party gets involved in a risky event knowing that it is protected against the risk and the other party will incur the cost
 - An example:
 	- If you are insured, there is less incentive to be careful. Similarly, if buyer has paid, there is less incentive for the seller to fulfil its part of the bargain.
 
