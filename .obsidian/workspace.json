@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanical Turk.md",
+                "file": "Superscalar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanical Turk"
+              "title": "Superscalar"
             }
           }
         ]
@@ -181,10 +181,15 @@
   },
   "active": "ee9415c599dc3642",
   "lastOpenFiles": [
-    "Mechanical Turk-swagdunk-safeBackup-0002.md",
-    "Mechanical Turk.md",
+    "Networks.md",
+    "Cache.md",
+    "Data Paths.md",
+    "VLIW.md",
+    "SIMD.md",
     "Matrix Factorization.md",
+    "Untitled 6.md",
     "Mechanical Turk.md",
+    "Mechanical Turk-swagdunk-safeBackup-0002.md",
     "Matrix Factorization-swagdunk-safeBackup-0001.md",
     "Crowdsourcing Design.md",
     "Pasted image 20260405190240.png",
@@ -198,20 +203,15 @@
     "Incentives.md",
     "Parallelism.md",
     "Social Mobilisation.md",
-    "SIMD.md",
     "Human Computation.md",
     "Recommender Systems.md.partial",
     "Moore's Law.md.partial",
     "Pasted image 20260324131951.png",
     "SSE.md",
-    "Cache.md",
     "Pipelining.md",
     "Associative Cache.md",
     "Multi-Word Blocks.md",
     "Single Cycle Optimisations.md",
-    "MIPS.md",
-    "Data Paths.md",
-    "VLIW.md",
     "Pasted image 20260310144533.png",
     "Pasted image 20260310140335.png",
     "Pasted image 20260310135734.png",

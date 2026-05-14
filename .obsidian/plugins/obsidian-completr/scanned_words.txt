@@ -56,6 +56,8 @@ Dealing
 Deep
 Decomposition
 Disadvantages
+DNS
+Doesn
 Hartenberg
 How
 However
@@ -86,6 +88,7 @@ HCOMP
 HITs
 Heavy
 HP
+Hostname
 Method
 Most
 Multi
@@ -257,6 +260,7 @@ Approach
 Analytic
 ANALYTICS
 Advantages
+Application
 each
 either
 essentially
@@ -355,6 +359,7 @@ extract
 expert
 experiment
 elements
+exponentially
 joint
 join
 joints
@@ -459,6 +464,8 @@ informations
 iterative
 interacting
 interdependence
+interacts
+initiated
 revolute
 rot
 remember
@@ -650,6 +657,8 @@ optimal
 original
 occurences
 obtain
+overwhelm
+optimisation
 prismatic
 passes
 perpendicular
@@ -796,6 +805,9 @@ practise
 plugins
 performs
 pattern
+protocol
+packets
+packet
 To
 THROUGH
 The
@@ -862,6 +874,9 @@ Training
 Tp
 Taskcn
 Testing
+TCP
+Transport
+Throttling
 Pick
 Procedure
 Personal
@@ -1047,6 +1062,7 @@ Filtering
 FOR
 Flexibility
 Fractional
+Flow
 Each
 Essentially
 Everything
@@ -1343,6 +1359,7 @@ traditional
 tune
 trails
 tested
+techniques
 determined
 distance
 doesn
@@ -1452,6 +1469,7 @@ description
 differentiate
 designing
 decided
+downhill
 by
 behind
 be
@@ -1777,6 +1795,7 @@ Objective
 Online
 Optimizer
 OFAT
+Organization
 for
 frame
 first
@@ -1904,6 +1923,7 @@ gamma
 grown
 geopgraphical
 gather
+geographical
 zi
 zeros
 zero
@@ -2121,6 +2141,9 @@ landing
 led
 layouts
 limited
+layered
+lol
+loss
 Join
 Joint
 Jump
@@ -2177,6 +2200,9 @@ Linear
 Learns
 Learning
 Latin
+LAN
+Layer
+Limitations
 variable
 vs
 very
@@ -2401,6 +2427,13 @@ subset
 schemes
 statistical
 significance
+spans
+send
+sliding
+sending
+sender
+scalar
+superscalar
 next
 not
 needed
@@ -2560,6 +2593,8 @@ Contests
 Conversion
 Cannot
 Considers
+Congestion
+Compiler
 Imagine
 It
 Instructions
@@ -2623,6 +2658,8 @@ Imputation
 Implications
 IP
 Inefficient
+Internet
+Improve
 market
 mouth
 measure
@@ -2730,6 +2767,7 @@ queue
 quickly
 queues
 question
+quantities
 Now
 New
 Not
@@ -2855,6 +2893,8 @@ Watts
 Workers
 Web
 Website
+WAN
+Wireless
 Systems
 Such
 Support
@@ -2963,6 +3003,9 @@ Squares
 Stochastic
 Square
 Suppose
+Something
+Sender
+SAWTOOTH
 use
 users
 used
@@ -3023,6 +3066,7 @@ Users
 Upwork
 Unknown
 USE
+Until
 Xtensa
 XDNA
 you
