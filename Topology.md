@@ -34,6 +34,13 @@ One [[Bus]] per node
 ### Diagram
 ![[Pasted image 20260512145841.png]]
 
+### Case study: Sun Niagara II
+Here is the chip layout for the Sun Niagara II
+- The *crossbar* is located at the part labelled *ccx*
+![[Pasted image 20260515114642.png]]
+- There is 1 bar **per** L2 [[Cache]] and non-cachable unit(the **NCU**)
+- The crossbar has two **buffers** per **core** per **L2** **cache** to handle data transfer (which is not shown here)
+
 ## Multistage Networks (Indirect)
 Kind looks like a Neural Network to me
 N = Number of IPs
@@ -59,6 +66,10 @@ Lower latency but greater complexity.
 Vary the number of "bridging switches" and hierarchy levels for an elastic trade off.
 #### Diagram
 ![[Pasted image 20260512151303.png]]
+
+### Case study: IBM Cell (2007), in PS3
+This chip uses uses 8 synergistic Processor Elements (**SPEs**), just think of them as cores though they are more specialised to multimedia than general purpose ones. These are **ringed** together using the element [[NoC|Interconnect]] [[Bus]]
+![[Pasted image 20260515115534.png]]
 
 ## Trees
 - Trees are useful for combinatorical tasks that split and split into task (or like recursion)
@@ -97,6 +108,7 @@ Vary the number of "bridging switches" and hierarchy levels for an elastic trade
 | Greater bisection bandwidth than the equivalent mesh |                                             |
 #### Diagram
 ![[Pasted image 20260512152251.png]]
+
 
 # Topology Metrics
 - **Routing Distance** (of a route) number of channels along a route

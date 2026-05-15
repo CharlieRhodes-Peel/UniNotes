@@ -40,9 +40,30 @@ Think about the good-time-cost triangle thingy or like the switch meme that can 
 # --> [[Topology]] <--
 
 # --> [[Routing]] <--
+# --> [[Flow Control]] <--
 
 # Switching Mechanisms
 **Circuit switching**: Full path is setup *before* transmission, *blocking* the pathway for other messages
 - Better for *streams* of data as has faster arbitration
 **Packet switching** Path determined on a **per-packet** basis
 - There's no init cost to **streams** of data, so is more *flexible*
+
+# NoC Design
+Generally, when we design a chip, we usually are weighing up and considering the following
+- Layout - *chip area is typically low*
+- Power consumption - *Cool over a small surface area is pretty tough*
+- Memory access - *want to be fast*
+- Core-to-core - *minimise communication bottlenecks for compute-intensive tasks*
+
+###### NOTE! Alot of these designs are **TOPOLOGICAL**, and so their case studies can found in [[Topology]] sorry for the inconvenience!
+
+## Performance
+There's *always* a **bottleneck**, and thus performance is never absolute. Ontop of this, *traffic patterns* are **always changing** and thus it's very hard to pinpoint specific issues.
+
+### Latency
+The following outlines an example of how to test latency
+
+Packets are injected from random nodes across a mesh network until it saturates
+![[Pasted image 20260515121200.png]]
+- The Red line = minimum latency from the network (topology, routing, loading)
+- The green (dashed) line is the throughput **bound** by the network (topology, routing loading)
