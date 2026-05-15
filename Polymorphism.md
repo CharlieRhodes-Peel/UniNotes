@@ -5,7 +5,7 @@ Greek for "many shapes"
 - Dynamic Binding
 
 ## Substitution:
-Substitution is when the language finds the most specific (lowest down in class tree hierarchy) method from the methods within an [[Inheritance]] tree
+Substitution is when the language finds the most specific (lowest down in class [[tree]] hierarchy) method from the methods within an [[Inheritance]] [[tree]]
 
 	// Example code
 	// CD and DVD inhert from items class, items contains method .print(), CD

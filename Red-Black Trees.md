@@ -1,7 +1,7 @@
 # Definition
-A way of balancing a tree, similar to [[AVL Trees]] but work by different rules
+A way of balancing a [[tree]], similar to [[AVL Trees]] but work by different rules
 ##### Rules:
-A red-black tree is a [[Binary Search Tree]] where:
+A red-black [[tree]] is a [[Binary Search Tree]] where:
 - Each Node has a colour, red or black
 - The root is black
 - ***Red*** rule: The ***children* must be *black***

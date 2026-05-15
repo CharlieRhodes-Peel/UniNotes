@@ -1,6 +1,15 @@
 Outsourcing computation to a crowd of people
 
 For more about crowd sourcing look at [[Incentives]] and [[Expert Crowdsourcing]]
+
+#### Learning outcomes
+1. Publish HComp tasks on Amazon [[Mechanical Turk]]
+2. Evalute whether a given problem can benefit from HComp
+3. Design basic task workflows
+4. Select and apply appropriate techniques for quality control:
+	1. Majority voting
+	2. Weighted Voting
+	3. Expectation Maximisation
 # What problems are suitable for HComp?
 Problems that are **hard for computers** but **easy** for *humans*, and Ideally tasks that are quickly explained to non-experts,  fast to complete and ones that can be **decomposed** into **smaller** tasks. Also the tasks should be **robust** to some **noise**. To sum this all up **data collection**
 

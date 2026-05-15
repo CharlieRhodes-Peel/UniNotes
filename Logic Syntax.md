@@ -25,5 +25,5 @@
 ## How to construct a [[Tree]] of a logical formula
 - Work backwards !
 - Start by adding the [[proposition]] variables to the [[tree]], they will always be the leaves
-- Follow BIDMAS (for logic) rules to construct rest of tree (upwards)
+- Follow BIDMAS (for logic) rules to construct rest of [[tree]] (upwards)
 	- Idk if this system holds but it's how I interpret it

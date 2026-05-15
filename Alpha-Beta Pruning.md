@@ -17,7 +17,7 @@
 ![[Pasted image 20241228162251.png]]
 Here the black (and one red one) show which branches get pruned
 - All the bottom ones are shown for clarity but they wouldn't be generated if pruned
-The example follow a left-first traversal of the tree
+The example follow a left-first traversal of the [[tree]]
 In the first pruning where the 5-9 branch is pruned it looks wrong as 9 is clearly the max, but as the next line is min it doesn't matter what that branch is it wouldn't be picked (even if it was lower because we are on a max branch!)
 - At first we check 2, is 2 < $\infty$ no so move on and we check 3, 3 > 2 so we INCREASE $\alpha$ as it never decreases and check if 3 < $\infty$ no so we move on
 - This then moves back up to the min node and we assume 3 and pass to the min node that $\alpha = -\infty$ and $\beta = 3$

@@ -1,10 +1,10 @@
-An AVL tree is a [[Binary Search Tree]] that has a ***balance** **factor*** to keep it balanced.
+An AVL [[tree]] is a [[Binary Search Tree]] that has a ***balance** **factor*** to keep it balanced.
 Ensures the [[Time Complexity]] of search is at ***WORST*** $\Theta(log(n))$
 
 # Definition: 
 - It's a [[Binary Search Tree]]
 - Left & Right subtree's height differ by **AT** **MOST** 1
-- Every subtree is also an AVL tree
+- Every subtree is also an AVL [[tree]]
 
 # Implementation:
 - Each Node n has a balance factor bF
@@ -19,7 +19,7 @@ Ensures the [[Time Complexity]] of search is at ***WORST*** $\Theta(log(n))$
 				rotateRight();
 			}
 # Rotations: 
-Fixing imbalances in the tree so that searching is at ***worst***: $\Theta(log(n))$
+Fixing imbalances in the [[tree]] so that searching is at ***worst***: $\Theta(log(n))$
 When rotating, we are swapping two nodes and then moving the subtrees around so that they don't break the invariant of being a [[Binary Search Tree]]. So if a subtree has to be $>y$ and $<x$ that subtree will still have those properties after the rotation.
 
 ##### 1. Left rotations
